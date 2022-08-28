@@ -1,3 +1,3 @@
-## Welcom to the USM Digital Health Science Research Laboratory! 
+# Welcome to the USM Digital Health Science Research Laboratory! 
 
-# usmdhs.github.io
+## URL: [usmdhs.github.io](https://usmdhs.github.io/)
